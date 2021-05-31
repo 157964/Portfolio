@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.exe
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.deps.json
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.dll
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\ref\opdracht1.dll
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\bin\Debug\net5.0\opdracht1.pdb
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.dll
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\ref\opdracht1.dll
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.pdb
+C:\Users\Gebruiker\source\repos\Getallen\opdracht1\obj\Debug\net5.0\opdracht1.genruntimeconfig.cache

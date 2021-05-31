@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.exe
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.deps.json
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.dll
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\ref\Opdracht 2.dll
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\bin\Debug\net5.0\Opdracht 2.pdb
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.dll
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\ref\Opdracht 2.dll
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.pdb
+C:\Users\Gebruiker\source\repos\Getallen\Opdracht 2\obj\Debug\net5.0\Opdracht 2.genruntimeconfig.cache
