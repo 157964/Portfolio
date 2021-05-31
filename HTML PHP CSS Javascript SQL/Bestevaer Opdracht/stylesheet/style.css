@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+
+    /* old color scheme */
+    --blue: rgb(35, 29, 222);
+    --red: rgb(224, 4, 4);
+    --white: rgb(255, 255, 255);
+    --white2: rgba(255, 255, 255, 0.9);
+    --grey: rgb(101, 100, 130);
+    /* new color scheme */
+    --Cblue: rgb(0, 2, 73);
+    --Yblue: rgb(15, 67, 146);
+    --Torange: rgb(255, 73, 73);
+    --Mred: rgb(221, 23, 23);
+
+    --menuwidth: 800px;
+    --contentwidth: calc(var(--menuwidth) + 10%);
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: var(--grey);
+    background: linear-gradient(270deg, var(--Torange), #656482);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    -o-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+#enter {
+    background-color: var(--grey);
+    background-image: url("../images/background.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+#menu {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    max-height: 200px;
+    max-width: var(--menuwidth);
+    margin: auto;
+    z-index: 2;
+}
+
+#menhead {
+    color: var(--Mred);
+    background-color: var(--Cblue);
+    font-size: 3rem;
+    font-weight: 700;
+    max-height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#name {
+    position: relative;
+}
+
+#menlower {
+    background-color: var(--Yblue);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 50px;
+}
+
+.menitem {
+    font-weight: bold;
+    font-size: medium;
+    color: var(--Torange);
+    background-color: var(--Yblue);
+    border: none;
+    width: 200px;
+}
+
+.menitem:hover {
+    color: var(--Mred);
+    background-color: var(--Cblue);
+    transition: 1s;
+} 
+
+#content {
+    min-height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: var(--contentwidth);
+    width: 100%;
+    z-index: 1;
+    /* border:rgb(0, 2, 73) solid 5px; */
+}
+
+.inflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: var(--contentwidth);
+    width: var(--contentwidth);
+}
+
+.inflex:hover {
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.6);
+    transition: 1s;
+}
+
+.Cuneven {
+    background-color: var(--Yblue);
+    color: var(--Torange);
+    flex-direction: row-reverse;
+}
+
+.Ceven {
+    background-color: var(--Torange);
+    color: var(--Yblue);
+}
+
+.shared {
+    width: 50%;
+    overflow: hidden;
+    opacity: 0.9;
+}
+
+.pictures {
+    width: 100%;
+    height: 100%;
+    max-height: 400px;
+}
+
+.Iitem {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 20px solid rgba(255, 255, 255, 0.0);
+}
+
+#calccontent {
+    min-height: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    max-width: var(--contentwidth);
+    width: 100%;
+    z-index: 1;
+}
+
+.blockcalc {
+    height: 100px;
+    background-color: var(--Yblue);
+    color: var(--Torange);
+    overflow: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.formpic {
+    width: 50%;
+    overflow: hidden;
+}
+
+.picinform {
+    height: 100%;
+    width: 100%;
+}
+
+#form {
+    width: 50%;
+}
+
+.input_thing {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    top: 20%;
+}
+
+input {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+select {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#sneakycontent {
+    display: none;
+}
+
+#loginname {
+    position: relative;
+    font-size: x-large;
+}
+
+
+.radio {
+    max-height: 50px;
+}
