@@ -1,0 +1,18 @@
+#center {
+    display: flex;
+    justify-content: center;
+}
+
+#galgje {
+    border: black solid 2px;
+}
+
+#woord {
+    text-align: center;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+#sneakycontent {
+    display: none;
+}
