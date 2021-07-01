@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="socket.io/socket.io.js"></script>
+    <script> 
+    var socket = io(); 
+    
+    socket.on('message', (msg) => {
+        document.getElementById('1').innerHTML = msg;
+    });
+
+    async function manageMessage(getId) {
+        var incomingmessage = document.getElementById(getId).value;
+        console.log(incomingmessage);
+        var sent = await sendMessage(incomingmessage);
+        console.log(sent);
+    }
+
+    function sendMessage(msg) {
+        return new Promise(resolve => {
+            socket.emit('messagePackage', msg);
+            resolve(`message ${msg} send`);
+        });
+    }
+
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <div id="1"></div>
+    <input type="text" id="input">
+    <button onclick="manageMessage('input')">Click</button>
+</body>
+</html>
