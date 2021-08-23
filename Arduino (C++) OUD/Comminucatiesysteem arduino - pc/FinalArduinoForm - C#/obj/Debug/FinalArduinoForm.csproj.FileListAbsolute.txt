@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\FinalArduinoForm.exe.config
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\FinalArduinoForm.exe
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\FinalArduinoForm.pdb
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\COMreadLine.dll
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\COMwriteLine.dll
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\System.IO.Ports.dll
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\COMreadLine.pdb
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\COMwriteLine.pdb
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\bin\Debug\System.IO.Ports.xml
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.Form1.resources
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.exe
+C:\Users\Gebruiker\source\repos\FinalArduinoForm\obj\Debug\FinalArduinoForm.pdb

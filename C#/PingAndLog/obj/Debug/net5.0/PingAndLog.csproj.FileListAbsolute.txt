@@ -1,0 +1,16 @@
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.exe
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.deps.json
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.runtimeconfig.json
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.runtimeconfig.dev.json
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.dll
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\ref\PingAndLog.dll
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\bin\Debug\net5.0\PingAndLog.pdb
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.dll
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\ref\PingAndLog.dll
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.pdb
+C:\Users\Gebruiker\Documents\Hw Dingen VS\PingAndLog\obj\Debug\net5.0\PingAndLog.genruntimeconfig.cache

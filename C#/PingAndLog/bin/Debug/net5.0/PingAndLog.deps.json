@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PingAndLog/1.0.0": {
+        "runtime": {
+          "PingAndLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PingAndLog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
