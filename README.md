@@ -8,9 +8,9 @@ Projecten waar ik trots op ben die ik heb gemaakt tot nu toe.
 Dit is een repo met projectjes waaraan ik heb gewerkt voordat ik aan mijn opleiding Software Dev ben begonnen.
 
 - Comminucatiesysteem arduino - pc
-Poging tot een connectie tussen PC C# en arduino over de IO bus.
+> Poging tot een connectie tussen PC C# en arduino over de IO bus.
 - Ledstrip - C++
-Werken met een LED stripje die op mijn kamer hangt en verbonden is met een arduino.
+> Werken met een LED stripje die op mijn kamer hangt en verbonden is met een arduino.
 
 ### C#
 
